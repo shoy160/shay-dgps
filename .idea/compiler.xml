@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="protocol-kks" />
+        <module name="dgps-core" />
+        <module name="protocol-jt808" />
+        <module name="dgps-host" />
+        <module name="protocol-bsj" />
+        <module name="protocol-zs" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="dgps-core" options="-parameters" />
+      <module name="dgps-host" options="-parameters" />
+      <module name="protocol-jt808" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dgps-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dgps-host" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dgps-protocols" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dgps-protocols/protocol-jt808" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
